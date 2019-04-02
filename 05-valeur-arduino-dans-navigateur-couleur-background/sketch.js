@@ -29,7 +29,7 @@ function draw() {
   // background(255,255,255);
   // fill(0,0,0);
   // text(valeurArduino, 10, 10);
-  lebodydemonhtml.style('background', '#FF0000');
+  lebodydemonhtml.style('background', color(255,0,0));
 }
 
 //------- functions -------- //
